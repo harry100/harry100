@@ -10,12 +10,12 @@
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://github.com/nodejs" target="_blank"><img height="50" src="https://img.icons8.com/color/452/nodejs.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://github.com/graphql" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=harry100&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
 
