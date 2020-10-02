@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/amanda-maharjan-67a918129/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/engin-veske)](https://stackoverflow.com/users/8964863/amanda-maharjan)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@maharjanamanda)
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/harry100.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/harry100?tab=followers)
 
 **💼 Currently working as:** Software Developer at <a href="https://younginnovations.com.np/" target="_blank"><b>YoungInnovations</b></a>
 
