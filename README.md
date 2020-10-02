@@ -10,7 +10,7 @@
 
 **💼 Currently working as:** Software Developer at <a href="https://younginnovations.com.np/" target="_blank"><b>YoungInnovations</b></a>
 
-**👨🏻‍💻 Currently working on:** 
+**👨🏻‍💻 Currently working with:** 
 
 <code><a href="https://github.com/nodejs" target="_blank"><img height="50" src="https://img.icons8.com/color/452/nodejs.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
