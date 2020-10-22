@@ -6,7 +6,7 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@maharjanamanda)
 [![GitHub followers](https://img.shields.io/github/followers/harry100.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/harry100?tab=followers)
 
-#### - 🥀 Learning PHP  <code><img height="20" src="https://develevation.com/wp-content/uploads/2017/10/php.svg"></code>,Wordpress <code> <img height="20" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/1024px-Wordpress-Logo.svg.png"> </code> &redux-saga <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg"></code>.
+#### - 🥀 Learning <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>.
 
 **💼 Currently working as:** Software Developer at <a href="https://younginnovations.com.np/" target="_blank"><b>YoungInnovations</b></a>
 
