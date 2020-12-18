@@ -8,7 +8,7 @@
 
 #### - 🥀 Learning <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>.
 
-**💼 Currently working as:** Software Developer at <a href="https://younginnovations.com.np/" target="_blank"><b>YoungInnovations</b></a>
+**💼 Currently working as:** Software Developer at <a href="http://deerhold.org/" target="_blank"><b>Deerhold Ltd.</b></a>
 
 **👨🏻‍💻 Currently working with:** 
 
