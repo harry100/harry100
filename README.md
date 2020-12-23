@@ -6,8 +6,8 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@maharjanamanda)
 [![GitHub followers](https://img.shields.io/github/followers/harry100.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/harry100?tab=followers)
 
-#### - 🥀 Learning microservices with<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>,
-<span><code><img height="20" src="https://avatars1.githubusercontent.com/u/27804?s=400&v=4"></code> and 
+#### - 🥀 Learning microservices with<span><code><img height="20" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>,
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/27804?s=400&v=4"></code> and 
 <code><img height="20" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"></code></span>
 
 **💼 Currently working as:** Software Developer at <a href="http://deerhold.org/" target="_blank"><b>Deerhold Ltd.</b></a>
